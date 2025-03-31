@@ -24,35 +24,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangtrungduc17895&layout=compact&theme=radical)
 
-## 🛠️ Projects
-
-- **[Project 1](https://github.com/dangtrungduc17895/project-1):** Brief description of Project 1.
-- **[Project 2](https://github.com/dangtrungduc17895/project-2):** Brief description of Project 2.
-- **[Project 3](https://github.com/dangtrungduc17895/project-3):** Brief description of Project 3.
-
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Blog](https://your-blog-url.com)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Contributions
-
-- [Open Source Project 1](https://github.com/open-source-project-1)
-- [Open Source Project 2](https://github.com/open-source-project-2)
-
-## 🎉 Achievements
-
-- Completed [Certification Name](https://www.certification-link.com)
-- Winner of [Hackathon Name](https://www.hackathon-link.com)
+- [LinkedIn](https://www.linkedin.com/in/dangtrungduc17895/)
 
 ## 💡 Inspiration
 
-> "Your favorite inspirational quote goes here."
+> "Good things take time."
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch with me.
