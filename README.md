@@ -5,14 +5,14 @@
 ## About Me
 
 - 🌱 I’m currently learning and exploring new technologies.
-- 💬 Ask me about web development, JavaScript, and open-source contributions.
+- 💬 Ask me about web development, Java, Springboot, and open-source contributions.
 - 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - ⚡ Fun fact: I love coding challenges and participating in hackathons.
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript, Python, Java
-- **Frameworks & Libraries:** React, Node.js, Express, Django
+- **Languages:** Java, JavaScript, Python, Groovy
+- **Frameworks & Libraries:** Springboot, ReactJS, Django
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools & Platforms:** Git, Docker, AWS, Heroku
 
